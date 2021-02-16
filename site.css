@@ -1,0 +1,120 @@
+
+html {
+    font-size: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+h1 a, h2 a, h3 a, h4 a, .comment-count a, h1 a:visited, h2 a:visited, h3 a:visited, h4 a:visited, .comment-count a:visited {
+    color: #7f7a7a;
+}
+a {
+    color: #0085bd;
+    text-decoration: none;
+}
+#logo .logo.site-title {
+    font-size: 20px;
+}
+h1 {
+    font-size: 14px;
+}
+
+
+
+li a {
+    color: #a3a3a3;
+}
+
+nav ul, nav ol {
+    list-style: none;
+        list-style-image: none;
+    list-style-image: none;
+}
+pre, ul, ol, dl,
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Helvetica",arial,sans-serif;
+    font-weight: normal;
+    line-height: 1.6em;
+    text-transform: none;
+    font-family: "Palatino Linotype","Book Antiqua","Palatino","serif";
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.2em;
+    text-transform: lowercase;
+    letter-spacing: 0px;
+}
+.main-nav#secondaryNavigation {
+    font-size: 14px;
+}
+.main-nav {
+    font-size: 14px;
+}
+
+
+
+#logo .logo.site-title {
+    font-family: "Wire One",Helvetica,arial,sans-serif;
+    font-weight: 400;
+    line-height: 1em;
+    font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.2em;
+    text-transform: none;
+    letter-spacing: 0;
+}
+#logo .logo.site-title {
+    font-size: 20px;
+}
+h1 {
+    font-size: 14px;
+}
+
+
+body.sidebar-fixed.sidebar-position-left #headerWrapper {
+    position: fixed;
+}
+body.sidebar-position-left #headerWrapper {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 430px;
+}
+#headerWrapper {
+    position: relative;
+    z-index: 999;
+}
+.collection-type-gallery #canvasWrapper {
+    height: 100%;
+}
+#canvasWrapper {
+    max-width: 1220px;
+}
+
+#canvas {
+    padding: 20px;
+    min-width: 900px;
+}
+
+
+
+.collection-type-gallery #slideshowWrapper {
+    height: 100%;
+    margin: 35px;
+        margin-left: 35px;
+    margin-left: 500px;
+    position: relative;
+}
+body {
+    color: #a3a3a3;
+}
+body, button, input, select, textarea {
+    font-family: sans-serif;
+    color: #222;
+}
+body {
+    font-size: 13px;
+    line-height: 1.6em;
+}
+html {
+    font-size: 100%;
+    -webkit-text-size-adjust: 100%;
+}
